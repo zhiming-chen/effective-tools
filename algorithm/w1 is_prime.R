@@ -39,7 +39,7 @@ is_prime_for <- function(x){
     return( TRUE)
 }
 
-is_prime_for()
+is_prime_for(111)
 
 ## 这里去大整数，会存在多计算一次的情形，比如数字79，他需要对3,5,7,9四个数字进行除法检查
 ## 实际上只要试到7 就够了。
