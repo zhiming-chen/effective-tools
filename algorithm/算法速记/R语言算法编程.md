@@ -109,7 +109,7 @@ Move disk 1 from A to C
 
 
 
-##  W1D4 Fabonacci 斐波那契数列--递归算法初始与替换
+##  W1D4 Fibonacci 斐波那契数列--递归算法初始与替换
 
 ###  斐波那契数列简介
 
