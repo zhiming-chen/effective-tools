@@ -20,6 +20,7 @@
 - 汉诺塔问题         [3.w1 hanoi.R](algorithm/3.w1%20hanoi.R)
 - fibonacci 数列问题 [4.w1 fibonacci.R](algorithm/4.w1%20fibonacci.R)
 - 获得全部质数       [5.w1 find_prime.R](algorithm/5.w1%20find_prime.R)
+- 获得全部因数       [6.w2 find_factor.R](algorithm/6.w2%20find%20factor.R)
 
 ## R语言编程综合知识（逐步更新）
 + R语言基础
